@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Brian Cardona
+# 👋 ¡Hola! Soy Brian Steven Cardona Arenas
 
 ### 🚀 Full-Stack Software Developer | Apasionado por la innovación tecnológica
 
