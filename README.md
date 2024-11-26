@@ -43,3 +43,7 @@ Me apasiona desarrollar soluciones tecnológicas que impacten positivamente en l
 ---
 
 ¡Explora mis repositorios y conecta conmigo para trabajar juntos en ideas increíbles! 🚀
+
+## 📊 GitHub Stats
+
+![Briancardonar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Briancardonar&show_icons=true&theme=dark)
