@@ -24,17 +24,19 @@
 ---
 
 ### 🌟 Experiencia destacada:
-1. **ERP basado en Microservicios**  
-   - Diseño e implementación de un sistema ERP escalable con arquitectura distribuida.
-   - Desarrollo de módulos clave como SCM, PLM y CRM.
-   - Tecnologías: Laravel, Nest.js, PostgreSQL y Docker.
+1. **Desarrollo de Sistemas Escalables y Distribuidos**  
+   - Implementación de soluciones tecnológicas para optimizar procesos empresariales y mejorar la eficiencia operativa.  
+   - Diseño de arquitecturas distribuidas y desarrollo de módulos para la gestión empresarial, garantizando escalabilidad y rendimiento.  
+   - Experiencia en el uso de tecnologías modernas como Spring Boot, Laravel, Docker y bases de datos relacionales.
 
-2. **Aplicación con OCR para Automatización**  
-   - Desarrollo de una solución con Java y Spring Boot que implementa OCR para la extracción y procesamiento automático de datos desde documentos.
+2. **Automatización y Procesamiento Inteligente de Datos**  
+   - Desarrollo de herramientas avanzadas para la extracción, análisis y procesamiento de datos, mejorando la toma de decisiones.  
+   - Uso de tecnologías como OCR y servicios backend para soluciones automatizadas y eficientes.
 
-3. **Aplicaciones dinámicas orientadas al usuario**  
-   - Creación de interfaces interactivas y amigables utilizando React y React Native.
-   - Enfoque en la optimización de experiencia de usuario para plataformas móviles y web.
+3. **Desarrollo de Aplicaciones Centrado en el Usuario**  
+   - Creación de interfaces dinámicas y accesibles en plataformas móviles y web, asegurando experiencias atractivas e intuitivas.  
+   - Implementación de aplicaciones responsivas utilizando frameworks como React, React Native y Node.js.  
+   - Enfoque en rendimiento y accesibilidad para usuarios finales.
 
 ---
 
@@ -67,6 +69,7 @@ Me apasiona desarrollar soluciones tecnológicas que impacten positivamente en l
 
 - [LinkedIn](https://www.linkedin.com/in/Briancardonar)
 - [Instagram](https://instagram.com/Briancardonar)
+
 ---
 
 ¡Explora mis repositorios y conecta conmigo para trabajar juntos en ideas increíbles! 🚀
