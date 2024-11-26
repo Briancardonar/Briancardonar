@@ -1,6 +1,7 @@
 # 👋 ¡Hola! Soy Brian Steven Cardona Arenas
 
 ### 🚀 Full-Stack Software Developer | Apasionado por la innovación tecnológica
+![image](https://github.com/user-attachments/assets/e040bbc2-a510-4201-be2e-bc53bc4ed627)
 
 ---
 
